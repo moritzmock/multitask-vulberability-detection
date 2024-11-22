@@ -1,0 +1,17 @@
+*.pickle
+env/
+env-old/
+.venv/
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+copy2cluster.sh
+vocab/
+stored_models/
+*.err
+*.out
+data/
+data
+data_OLD/
+.Rproj.user

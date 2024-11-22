@@ -1,0 +1,14 @@
+__pycache__
+.vscode
+data
+data_OLD
+env
+env-old
+scripts
+stored_models
+vocab
+.gitignore
+copy2cluster.sh
+exclude-file.txt
+.DS_Store
+.git
