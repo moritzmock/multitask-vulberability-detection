@@ -2,7 +2,7 @@
 
 This repository contains the replication package for the extended abstract *Leveraging multi-task machine learning to improve vulnerability detection*. The work was conducted by Barbara Russo, Jorge Melegati, and Moritz Mock.
 
-Link to preprint: currently under review
+Link to preprint: [https://doi.org/10.48550/arXiv.2501.15934](https://doi.org/10.48550/arXiv.2501.15934)
 
 ## Abstract
 
@@ -83,3 +83,20 @@ In the following the two most relevant parameters for the experiments are descri
 
 
 While setting the mode to "hyper-analysis" the hyperparameter search based on the values in the [hyperanalysis.yml](hyperanalysis.yml) are considered as search space.
+
+
+## How to cite the work
+
+#### Preprint:
+
+```bibtext
+@misc{russo2025leveragingmultitasklearningimprove,
+      title={Leveraging multi-task learning to improve the detection of SATD and vulnerability}, 
+      author={Barbara Russo and Jorge Melegati and Moritz Mock},
+      year={2025},
+      eprint={2501.15934},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2501.15934}, 
+}
+```
